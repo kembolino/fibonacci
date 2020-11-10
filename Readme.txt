@@ -5,5 +5,5 @@ Les termes de cette suite, qui commence par les termes 0 et 1, sont appelés sui
 
 Soit la suite F0 = 0, F1 = 1 et Fn = Fn-1 + Fn-2, pour n > 0.
 
-L' algorithme calcule le n-ème terme de la suite de Fibonacci en mémorisant deux termes consécutifs de la suite. On commence avec les deux premières valeurs x = 0 et y = 1,
+L' algorithme calcule le n-ème terme de la suite de Fibonacci en mémorisant deux termes consécutifs de la suite. On commence avec les deux premières valeurs F0 = 0 et F1 = 1,
 puis on remplace répétitivement le premier nombre par le second, et le second par la somme de deux.
